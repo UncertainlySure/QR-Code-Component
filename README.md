@@ -6,7 +6,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
@@ -20,11 +19,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![](screenshot-qr-code-component.png)
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
@@ -115,4 +109,4 @@ No changes to be planned for now. I am satisfied with the result.
 
 ## Author
 
-- Frontend Mentor - [@UncertainlySUre](https://www.frontendmentor.io/profile/UncertainlySure)
+- Frontend Mentor - [@UncertainlySure](https://www.frontendmentor.io/profile/UncertainlySure)
